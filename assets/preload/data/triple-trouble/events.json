@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "stage",
+		"player1": "Chavo-blue",
+		"player2": "Quico",
+		"player3": null,
+		"events": [
+			[
+				106849.315068493,
+				[
+					[
+						"Change Character",
+						"1",
+						"Don Ramon"
+					]
+				]
+			],
+			[
+				133150.684931507,
+				[
+					[
+						"Change Character",
+						"1",
+						"eggman_soul"
+					]
+				]
+			],
+			[
+				133253.424657534,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf-christmas"
+					]
+				]
+			],
+			[
+				238356.164383562,
+				[
+					[
+						"Change Character",
+						"1",
+						"Don Ramon"
+					]
+				]
+			],
+			[
+				238458.904109589,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Chavo-blue"
+					]
+				]
+			],
+			[
+				290136.98630137,
+				[
+					[
+						"Change Character",
+						"1",
+						"Senor Barriga"
+					]
+				]
+			],
+			[
+				406621.554711998,
+				[
+					[
+						"Change Character",
+						"1",
+						"Don Ramon"
+					]
+				]
+			],
+			[
+				499151.675193925,
+				[
+					[
+						"Screen Shake",
+						"1.5, 0.02",
+						""
+					]
+				]
+			],
+			[
+				499242.036639708,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				501501.072784286,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-christmas",
+		"bpm": 146,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "triple-trouble"
+	}
+}
